@@ -1,0 +1,29 @@
+.container-fluid {
+    padding: 20px;
+}
+
+.myForm {
+    margin-top: 20px;
+}
+
+.myForm .col {
+    margin-bottom: 20px;
+}
+
+.myForm .col app-single-student {
+    display: block;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.myForm .col app-single-student:hover {
+    background-color: #e0e0e0;
+}
+
+.btn-add-student {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

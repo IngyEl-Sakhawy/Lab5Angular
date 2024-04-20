@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": "6",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "phone": "987-654-3210"
+    },
+    {
+      "id": "7",
+      "name": "Michael Johnson",
+      "username": "michaeljohnson",
+      "email": "michael.johnson@example.com",
+      "phone": "555-123-4567"
+    },
+    {
+      "id": "8",
+      "name": "Emily Brown",
+      "username": "emilybrown",
+      "email": "emily.brown@example.com",
+      "phone": "(555) 789-0123"
+    },
+    {
+      "id": "9",
+      "name": "David Lee",
+      "username": "davidlee",
+      "email": "david.lee@example.com",
+      "phone": "222-333-4444"
+    }
+  ]
+}

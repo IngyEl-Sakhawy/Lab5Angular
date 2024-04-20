@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #ffffff; /* Background color of the navbar */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.navbar-toggler {
+  border: none; /* Remove border from the toggler */
+}
+
+.nav-link {
+  color: #333333; /* Color of the links */
+  font-weight: bold; /* Bold font weight */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Color of the links on hover */
+}
+
+.nav-item.active .nav-link {
+  color: #007bff; /* Active link color */
+}
+
+.container {
+  display: flex;
+  align-items: center; /* Center the content vertically */
+}
+
+.navbar-brand {
+  margin-right: auto; /* Push the brand/logo to the left */
+}
